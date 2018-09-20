@@ -5,8 +5,8 @@ html, body{
 
 #game{
     display: grid;
-    height:800px;
-    width: 800px;
+    height:600px;
+    width: 600px;
     grid-template-columns: repeat(40,1fr);
     grid-template-rows: repeat(40,1fr);
     margin: auto;
